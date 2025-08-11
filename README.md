@@ -1,5 +1,5 @@
 # Loan Approval Prediction
-Task2 @Elevvo ML Internship
+Task 2 @Elevvo ML Internship
 ## Instructions
 1. Dataset (Recommended): Loan-Approval-Prediction-Dataset (Kaggle).
 2. Build a model to predict whether a loan application will be approved.
