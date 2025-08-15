@@ -6,6 +6,10 @@ Task 2 @Elevvo ML Internship
 3. Handle missing values and encode categorical features.
 4. Train a classification model and evaluate performance on imbalanced data.
 5. Focus on precision, recall, and F1-score.
+6. 
+### Bonus:
+1. Use SMOTE or other techniques to address class imbalance.
+2. Try logistic regression vs. decision tree.
 
 ## Dataset
 - [Loan Approval Dataset](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)
