@@ -16,3 +16,9 @@ Task 2 @Elevvo ML Internship
 
 ## Notebook
 - [Loan Approval Prediction](https://github.com/Asma-Nasr/Loan-Approval-Prediction/blob/main/loan_approval_predictionipynb.ipynb)
+
+## Results
+
+| Model          | Accuracy | Precision Score | Recall Score | F1 Score |
+|----------------|----------|------------------|--------------|----------|
+| Random Forest   | 97.74%   | 0.98             | 0.96         | 0.97     |
