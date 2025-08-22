@@ -15,4 +15,4 @@ Task 2 @Elevvo ML Internship
 - [Loan Approval Dataset](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)
 
 ## Notebook
-- [Loan Approval Prediction]()
+- [Loan Approval Prediction](https://github.com/Asma-Nasr/Loan-Approval-Prediction/blob/main/loan_approval_predictionipynb.ipynb)
